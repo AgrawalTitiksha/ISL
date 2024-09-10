@@ -8,6 +8,9 @@ The goal is to develop a robust two-way communication system that accurately tra
 without the need for an external translator.
 
 This system should be capable of:
+
 *ISL to Text Translation:* Convert hand gestures, captured via video, into corresponding textual information.
+
 *Text Translation:* Text to speech, and other language.
+
 *Text to ISL Translation:* Convert text input into corresponding ISL gestures, displayed as animations.
