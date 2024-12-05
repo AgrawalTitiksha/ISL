@@ -1,4 +1,4 @@
-# ISL
+# Boli A two way communication system for deaf-mute and normal individual individual
 # Introduction 
 
 The Indian Sign Language (ISL) Translation System is designed to enhance communication between deaf and hearing individuals by using advanced Deep Learning and gesture recognition technology. This system translates ISL
